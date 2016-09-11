@@ -1,11 +1,11 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Travel Blog
+email: gzaprolifeart01@yahoo.fr
+description: A fun blog about traveling
+baseurl: "/travel-blog"
+
+twitter_username: Ydrelagraphics
+avatar: "https://pbs.twimg.com/profile_images/624178669272104960/i8yYl2tJ.png" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +19,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Ydrela Graphics" # Set default author name
+      categories: "places"
       layout: "post"
       comments: true
   -
